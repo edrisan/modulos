@@ -1,3 +1,3 @@
 node_modules
 .idea
-/public/scripts.min.js
+public/js/scripts.min.js
